@@ -2,7 +2,7 @@
 banner:
   title: Únete a mi aventura de ser un artista drag y comediante en el metaverso
 about:
-  enable: true
+  enable: false
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
     nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
