@@ -4,22 +4,8 @@ relativeURls = "true"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "saltï"
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+[menu]
+main = []
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
